@@ -11,3 +11,9 @@ bo4_round: moves the round counter to the top right
 zpause: Co-op pause script, hold crouch and melee to pause/unpause. or type !p
 
 DLC5: https://github.com/Logo-2K/zombies-declassified
+
+
+Pre-Aplha Origins;
+unzip "zm_tmbf.zip"
+place in: "C:\Users\[yourname]\AppData\Local\Plutonium\storage\t6\mods"
+should end up as: "C:\Users\Administrator\AppData\Local\Plutonium\storage\t6\mods\zm_tmbf"
