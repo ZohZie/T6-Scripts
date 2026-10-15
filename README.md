@@ -10,3 +10,4 @@ bo4_round: moves the round counter to the top right
 
 zpause: Co-op pause script, hold crouch and melee to pause/unpause. or type !p
 
+DLC5: https://github.com/Logo-2K/zombies-declassified
