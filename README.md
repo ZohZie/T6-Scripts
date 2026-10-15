@@ -21,3 +21,17 @@ unzip "zm_tmbf.zip"
 place in: "C:\Users\[yourname]\AppData\Local\Plutonium\storage\t6\mods"
 
 should end up as: "C:\Users\[yourname]\AppData\Local\Plutonium\storage\t6\mods\zm_tmbf"
+
+
+
+
+
+
+
+
+
+to switch controller bumpers and triggers, type this into the console "`" key:
+
+bind o "bind BUTTON_LSHLDR +speed_throw; bind BUTTON_RSHLDR +attack; bind BUTTON_LTRIG +smoke; bind BUTTON_RTRIG +frag"
+
+then pressing "o" ingame each launch will switch the bumpers and triggers for that game session.
