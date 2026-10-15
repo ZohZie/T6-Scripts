@@ -1,3 +1,5 @@
+all scripts [.gsc files] to put into: "C:\Users\[yourname]\AppData\Local\Plutonium\storage\t6\scripts"
+
 HUD_v6: This script displays HUD of Health and Zombies counter on the bottom left side of the map. 
 
 Timers: Top right Tital time and Round time, with Round Times being displayed and saved underneath
@@ -18,4 +20,4 @@ unzip "zm_tmbf.zip"
 
 place in: "C:\Users\[yourname]\AppData\Local\Plutonium\storage\t6\mods"
 
-should end up as: "C:\Users\Administrator\AppData\Local\Plutonium\storage\t6\mods\zm_tmbf"
+should end up as: "C:\Users\[yourname]\AppData\Local\Plutonium\storage\t6\mods\zm_tmbf"
